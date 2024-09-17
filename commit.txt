@@ -1,0 +1,184 @@
+It looks like you're trying to create a Git commit with a commit message that includes the output of various terminal commands. Here's the commit message you provided:
+
+warning: CRLF will be replaced by LF in app/Classes/ServerHandler.php.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in app/Classes/VkApi.php.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in app/Http/Controllers/New.php.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in app/Http/Controllers/Old.php.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in app/Http/Controllers/cpayeer.php.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in app/Http/Controllers/words.json.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in app/Jobs/CloseNewYear.php.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in app/Jobs/NewYear.php.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in app/Jobs/UpdatePromo.php.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in app/Jobs/UpdateTournier.php.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in app/Service/SocialService.php.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in app/TournierTable.php.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in app/Tourniers.php.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/app.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/app.min.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/apexcharts.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/auth-2-carousel.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/calendar.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/chartjs.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/coming-soon.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/crypto-dashboard.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/crypto-exchange.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/crypto-kyc-app.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/crypto-orders.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/crypto-wallet.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/dashboard-blog.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/datatables.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/echarts.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/ecommerce-cart.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/ecommerce-select2.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/email-editor.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/file-manager.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/flot.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/fontawesome.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/form-advanced.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/form-editor.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/form-mask.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/form-repeater.int.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/form-validation.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/form-wizard.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/form-xeditable.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/gmaps.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/ico-landing.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/jquery-knob.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/leaflet-map.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/lightbox.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/materialdesign.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/product-filter-range.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/profile.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/project-overview.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/range-sliders.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/rating-init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/saas-dashboard.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/session-timeout.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/sparklines.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/sweet-alerts.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/table-editable.int.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/table-responsive.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/task-create.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/task-form.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/task-kanban.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/tasklist.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/timeline.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/toastr.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/tui-charts.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/two-step-verification.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/js/pages/validation.init.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/libs/flot-charts/flot-charts.min.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/libs/flot-curvedLines/flot-curvedLines.min.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/libs/leaflet/leaflet.min.css.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/libs/pdfmake/pdfmake.min.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/libs/simplebar/simplebar.min.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/scss/app-dark.scss.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/scss/app.scss.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/scss/bootstrap-dark.scss.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/scss/bootstrap.scss.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/scss/custom/components/_accordion.scss.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/scss/custom/components/_backgrounds.scss.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/scss/custom/components/_badge.scss.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/scss/custom/components/_breadcrumb.scss.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/scss/custom/components/_buttons.scss.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/scss/custom/components/_card.scss.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/scss/custom/components/_demos.scss.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/scss/custom/components/_forms.scss.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/scss/custom/components/_nav.scss.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/scss/custom/components/_pagination.scss.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/scss/custom/components/_preloader.scss.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/scss/custom/components/_print.scss.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/scss/custom/components/_progress.scss.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/scss/custom/components/_reboot.scss.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in public/assets/scss/custom/components/_table.scss.
+The file will have its original line endings
